@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Commonly ignored files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
